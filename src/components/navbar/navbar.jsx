@@ -1,5 +1,4 @@
 import React from 'react'
-import ReactDOM from 'react-dom'
 
 function func(){
     const styles = {
@@ -10,9 +9,6 @@ function func(){
         },
         navitem:{
             margin: 12
-        },
-        navbarLogo:{
-            size: 56,
         }
     };
     return(<div>
@@ -51,7 +47,5 @@ function func(){
 </nav>
     </div>)
 }
-
-
 
 export default func
