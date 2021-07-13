@@ -2,8 +2,8 @@ import './App.css';
 
 import Navbar from './components/navbar/navbar'
 import Home from './components/title/title.jsx'
-import Footer from './components/footer/footer.jsx'
 import Products from './components/Products/products.jsx'
+import Footer from './components/footer/footer.jsx'
 
 
 function App() {
