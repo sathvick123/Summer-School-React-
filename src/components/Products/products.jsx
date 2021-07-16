@@ -3,6 +3,7 @@ import Card from './card.jsx'
 
 
 //place all your product items here
+//props is an array of some js objects where each object represents an item
 var props=[{
     title:"Chair",
     discription: ("Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.".substring(300)),
@@ -25,8 +26,10 @@ var props=[{
 
   function products(){
         return(
-            <div>{console.log(props[0])}
-            {props.map( function func(i){ return(<Card title={i.title} discription={i.discription} src={i.src} ></Card>)})}</div>)
+            <div>
+            {props.map( function func(i){ return(<Card title={i.title} discription={i.discription} src={i.src} ></Card>)})}
+            </div>)
   }
 
   export default products;
+

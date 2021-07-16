@@ -11,6 +11,7 @@ function func(){
             margin: 12
         }
     };
+    
     return(<div>
 <nav className="navbar navbar-expand-lg navbar-light bg-light">
         {/* Image & logo */}
