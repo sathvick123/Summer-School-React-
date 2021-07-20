@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sathvick_CS19B010/static/css/main.f3e01a9a.chunk.css",
+    "main.js": "/sathvick_CS19B010/static/js/main.4f04794d.chunk.js",
+    "main.js.map": "/sathvick_CS19B010/static/js/main.4f04794d.chunk.js.map",
+    "runtime-main.js": "/sathvick_CS19B010/static/js/runtime-main.f40fb2df.js",
+    "runtime-main.js.map": "/sathvick_CS19B010/static/js/runtime-main.f40fb2df.js.map",
+    "static/js/2.334f95f8.chunk.js": "/sathvick_CS19B010/static/js/2.334f95f8.chunk.js",
+    "static/js/2.334f95f8.chunk.js.map": "/sathvick_CS19B010/static/js/2.334f95f8.chunk.js.map",
+    "index.html": "/sathvick_CS19B010/index.html",
+    "static/css/main.f3e01a9a.chunk.css.map": "/sathvick_CS19B010/static/css/main.f3e01a9a.chunk.css.map",
+    "static/js/2.334f95f8.chunk.js.LICENSE.txt": "/sathvick_CS19B010/static/js/2.334f95f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f40fb2df.js",
+    "static/js/2.334f95f8.chunk.js",
+    "static/css/main.f3e01a9a.chunk.css",
+    "static/js/main.4f04794d.chunk.js"
+  ]
+}
